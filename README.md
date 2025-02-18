@@ -33,7 +33,8 @@ The dataset consists of **three key tables**:
 ✔️ **Drill-Down Visuals** – Dive deeper into **Supervisor and Employee-wise Revenue**.  
 ✔️ **Interactive Charts** – Line, Doughnut, and Bar charts for insightful analysis.  
 ✔️ **Action Buttons** – Navigate between dashboards with clickable images.  
-✔️ **Scrollable Table** – Sales data with revenue bars for quick insights.  
+✔️ **Table** – Sales data with revenue bars for quick insights.  
+✔️ **Scroller** – Product data with price per unit visualised as an animating scrolling text.  
 ✔️ **Q&A Feature** – Ask natural language questions and get insights from Power BI.  
 ✔️ **Pinned Visuals** – Key insights pinned to a separate Power BI dashboard.  
 
